@@ -12,16 +12,8 @@ def clear_message(message):
     sys.stdout.flush()
 
 message_clusters = [
-    {"messages": ["Sana'y hindi na lang Pinilit pa"], "display_duration": 1.5},
-    {"messages": ["Wala ring patutunguhan"], "display_duration": 2},
-    {"messages": ["Kahit sabihin ko pang mahal kita"], "display_duration": 3},
-    {"messages": ["Nalulungkot, nayayamot, nagmumukmok"], "display_duration": 1.5},
-    {"messages": ["Hindi ko pa yata kaya pang"], "display_duration": 0.3},
-    {"messages": ["Labanan ang damdamin ko"], "display_duration": 5},
-    {"messages": ["Sana'y hindi na lang pinilit pa"], "display_duration": 2},
-    {"messages": ["Wala ring patutunguhan"], "display_duration": 1.5},
-    {"messages": ["Kahit sabihin ko pang mahal kita"], "display_duration": 3},
-    {"messages": [":("], "display_duration": 10},
+    {"messages": ["Example"], "display_duration": 1},
+    {"messages": ["Example2"], "display_duration": 2},
 ]
 
 typing_speed = 0.1  
